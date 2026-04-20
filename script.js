@@ -1,14 +1,40 @@
-const text = `Oi, passando só pra te desejar feliz aniversário.
+const text = `Oi Clara, passando só pra te desejar feliz aniversário.
 
-Eu poderia começar essa mensagem de várias formas.. mas a verdade é que mesmo com nosso distanciamento, ainda existe uma parte de mim que lembra de você em silêncio, principalmente em dias como hoje.
+Eu poderia começar essa mensagem de várias formas…
+mas a verdade é que, mesmo com o nosso distanciamento,
+ainda existe uma parte de mim que lembra de você em silêncio
+principalmente em dias como hoje.
 
-Eu lembro do seu sorriso (era tão bom te ver sorrindo) da sua voz, da forma como você iluminava até os momentos mais simples
+Eu lembro do seu sorriso
+(era tão bom te ver sorrindo),
+da sua voz,
+da forma como você iluminava até os momentos mais simples.
 
-nunca irei esquecer de como você me fazia se sentir nos momentos em que havia leveza entre nós, mesmo que a vida tenha trilhado caminhos diferentes pra nós dois, nada disso deixou de ser real ou importante pra mim,
+Nunca vou esquecer de como você me fazia sentir
+nos momentos em que havia leveza entre nós.
 
-hoje mais do que qualquer coisa eu só quero te desejar coisas boas. Que sua vida esteja leve, que seus dias sejam felizes, que você esteja sendo cuidada pela vida do jeito que merece. A gente não foi pra sempre, mas foi verdadeiro, e isso sempre vai ter valor pra mim.
+E mesmo que a vida tenha trilhado caminhos diferentes pra nós dois,
+nada disso deixou de ser real
+ou importante pra mim.
 
-Fica com Deus, e feliz aniversário. MFDM. 🩵 21/04/2026` 
+Hoje, mais do que qualquer coisa,
+eu só quero te desejar coisas boas.
+
+Que sua vida esteja leve,
+que seus dias sejam felizes,
+que você esteja sendo cuidada pela vida
+do jeito que merece, espero que possa realizar todos seus sonhos e metas.
+
+A gente não foi pra sempre…
+mas foi verdadeiro.
+
+E isso sempre vai ter valor pra mim.
+
+Fica com Deus,
+e feliz aniversário.
+
+MFDM 🩵
+21/04/2026` 
 
 let i = 0;
 
