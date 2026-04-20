@@ -34,7 +34,8 @@ Fica com Deus,
 e feliz aniversário.
 
 MFDM 🩵
-21/04/2026` 
+21/04/2026
+` 
 
 let i = 0;
 
@@ -73,3 +74,10 @@ function openImage() {
 function closeImage() {
   document.getElementById("modal").classList.remove("active");
 }
+
+const music = document.getElementById("bgMusic");
+
+document.body.addEventListener("click", () => {
+  music.volume = 0.15;
+  music.play();
+}, { once: true });
