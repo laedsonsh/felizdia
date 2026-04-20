@@ -20,6 +20,7 @@ body {
   to { background-position: 1000px 1000px; }
 }
 
+
 .container {
   margin: 60px 0;
   width: 600px;
@@ -49,6 +50,7 @@ body {
 }
 
 
+
 .container::before {
   content: "";
   position: absolute;
@@ -64,6 +66,7 @@ body {
     0 0 25px rgba(0,0,0,0.15),
     inset 0 0 30px rgba(0,0,0,0.05);
 } 
+
 
 /* BOTÃO */
 #icon {
@@ -154,4 +157,18 @@ body {
   position: absolute;
   bottom: 35px;
   right: 90px;
+}
+
+.clover {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+
+  font-size: 20px;
+  opacity: 0.6;
+
+  transform: rotate(-10deg);
+
+  filter: drop-shadow(0 2px 3px rgba(0,0,0,0.2));
+  pointer-events: none;
 }
