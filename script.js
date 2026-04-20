@@ -10,7 +10,7 @@ Eu lembro do seu sorriso
 da sua voz,
 da forma como você iluminava até os momentos mais simples.
 
-Nunca vou esquecer de como você me fazia sentir
+Nunca vou esquecer de como você me fazia se sentir
 nos momentos em que havia leveza entre nós.
 
 E mesmo que a vida tenha trilhado caminhos diferentes pra nós dois,
