@@ -11,7 +11,7 @@ da sua voz,
 da forma como você iluminava até os momentos mais simples.
 
 Nunca vou esquecer de como você me fazia se sentir
-nos momentos em que havia leveza entre nós.
+nos momentos em que havia leveza entre a gente.
 
 E mesmo que a vida tenha trilhado caminhos diferentes pra nós dois,
 nada disso deixou de ser real
