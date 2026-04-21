@@ -11,7 +11,7 @@ da sua voz,
 da forma como você iluminava até os momentos mais simples.
 
 Nunca vou esquecer de como você me fazia se sentir
-nos momentos em que havia leveza entre a gente.
+nos momentos em que havia leveza entre a gente, obrigado pelas vezes que tornou minha existência mais gostosa.
 
 E mesmo que a vida tenha trilhado caminhos diferentes pra nós dois,
 nada disso deixou de ser real
@@ -38,9 +38,6 @@ e meus mais sinceros: feliz aniversário!
 
 MFDM 🩵
 21/04/2026
-
-
-𝐻𝑎́ 𝑎𝑚𝑜𝑟𝑒𝑠 𝑞𝑢𝑒 𝑠𝑜́ 𝑝𝑜𝑑𝑒𝑚 𝑣𝑖𝑣𝑒𝑟 𝑒𝑚 𝑠𝑒𝑢 𝑐𝑜𝑟𝑎𝑐̧𝑎̃𝑜, 𝑛𝑎̃𝑜 𝑒𝑚 𝑠𝑢𝑎 𝑣𝑖𝑑𝑎.
 `;
 
 let i = 0;
