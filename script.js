@@ -36,7 +36,7 @@ Espero que a vida tenha o melhor reservado pra você, que nunca te faltem motivo
 Fica com Deus,
 e meus mais sinceros: feliz aniversário!
 
-MFDM 🩵 serendipia (s.f)
+MFDM 🩵 Serendipia (s.f.)
 21/04/2026
 `;
 
